@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Portfolio](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Portfolio]()**
 
 - 🌱 I’m currently learning **TypeScript**
 
